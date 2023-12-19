@@ -15,7 +15,7 @@ I'm a retired OG Name collector & seller. I worked with some known people before
 
 ↓ History below ↓
 
-# Name History
+# 📓 Name History 📓
 
 Format:
 (Name) - Sold on (date of sell) - (platform) - (price)
