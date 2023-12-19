@@ -6,7 +6,7 @@
 I'm a retired OG Name collector & seller. I worked with some known people before getting kicked out of different groups and eventually retiring. 
 
 
-## What I like:
+## What I like/am good at (programming-wise):
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
@@ -15,6 +15,7 @@ I'm a retired OG Name collector & seller. I worked with some known people before
 
 ↓ History below ↓
 
+# Name History
 
 Format:
 (Name) - Sold on (date of sell) - (platform) - (price)
