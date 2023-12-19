@@ -1,6 +1,19 @@
-Hello, im known as dough and I used to be a collector and seller of OG names, I'm currently in a group known as arc, fairly unknown.
-I don't like coding but I know a bit of C++. I'm mostly gonna be posting C++ code of my sniper, tracker, etc.
-love <3 - Dough (Dough99s)
+
+# Hi, I'm Dough, (Dough99s, DoughMarket) 👋
+
+
+## 🚀 About Me
+I'm a retired OG Name collector & seller. I worked with some known people before getting kicked out of different groups and eventually retiring. 
+
+
+## What I like:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+↓ History below ↓
 
 
 Format:
