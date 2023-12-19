@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a retired OG Name collector & seller. I worked with some known people before getting kicked out of different groups and eventually retiring.<br>
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=dough99s&style=for-the-badge)
 
 
 ## What I like/am good at (programming-wise):
