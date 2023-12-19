@@ -20,18 +20,18 @@ I'm a retired OG Name collector & seller. I worked with some known people before
 Format:
 (Name) - Sold on (date of sell) - (platform) - (price)
 
-High Quality:
+High Quality:<br>
 
-Yang - Sold on 14/5/2023 - Youtube - 600$ - Last Username I sold, buyer gave it to a friend.
-Youngs - Sold on 10/5/2023 - 200$ - Prolly Discord
-Cashing - Sold on 29/4/2023 - 200$ - No clue
-Starlight - Sold on 6/9/2021 - 275$ - Chess.com - Closed: Inactive
-Demon - Sold on 1/1/2023 - Cracked.io - Away
-Credit - Sold on 12/8/2022 - Cracked.io - Banned
+Yang - Sold on 14/5/2023 - Youtube - 600$ - Last Username I sold, buyer gave it to a friend.<br>
+Youngs - Sold on 10/5/2023 - 200$ - Prolly Discord<br>
+Cashing - Sold on 29/4/2023 - 200$ - No clue<br>
+Starlight - Sold on 6/9/2021 - 275$ - Chess.com - Closed: Inactive<br>
+Demon - Sold on 1/1/2023 - Cracked.io - Away<br>
+Credit - Sold on 12/8/2022 - Cracked.io - Banned<br>
 
-Others:
+Others:<br>
 
-Sunken - Sold on 24/2/2021 - Chess.com
-Probing - Sold on 8/5/2020 - Chess.com
+Sunken - Sold on 24/2/2021 - Chess.com<br>
+Probing - Sold on 8/5/2020 - Chess.com<br>
 
 more coming soon.
